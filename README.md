@@ -1,18 +1,16 @@
 # NvChad-custom
-自定义neovim配置,基于 [NvChad](https://github.com/NvChad/NvChad) 和fork  [elulcao](https://github.com/elulcao/NvChad-custom)
+自定义neovim配置,基于 [NvChad](https://github.com/NvChad/NvChad) 和  [elulcao](https://github.com/elulcao/NvChad-custom)
+<details>
+<summary>点击这里展开查看详细图文说明</summary>
+<img src="assets/demo.gif" alt="demo - main.go" />
+</details>
 
-支持 html  js typescript golang rust python lua 等语言的lsp
-支持 copilot  代码提示
-todo list: fcitx5输入法的自动关闭
-
----
-
-<p align="center">
-<img 
-  src="assets/demo.gif" alt="demo - main.go" />
-</p>
-
----
+支持 html  js typescript golang rust python lua 等语言的lsp   
+支持 copilot  代码提示   
+## 修改点
+- 增加插入模式自动判断fctix5输入法的开关，离开插入模式自动关闭输入法
+## todo list:
+- 快捷键的的整理
 
 ## Pre-requisites
 
