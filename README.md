@@ -1,17 +1,15 @@
 # NvChad-custom
-自定义neovim配置,基于NvChad
+自定义neovim配置,基于 [NvChad](https://github.com/NvChad/NvChad) 和fork  [elulcao](https://github.com/elulcao/NvChad-custom)
+
 支持 html  js typescript golang rust python lua 等语言的lsp
 支持 copilot  代码提示
 todo list: fcitx5输入法的自动关闭
 
 ---
 
-<p
-    align="center">
-    <img
-        src=".assets/demo.gif"
-        alt="demo - main.go"
-    />
+<p align="center">
+<img 
+  src=".assets/demo.gif" alt="demo - main.go" />
 </p>
 
 ---
@@ -46,7 +44,3 @@ git clone https://github.com/elulcao/NvChad-custom.git ~/.config/nvim-NvChad-cus
 ln -sf ~/.config/nvim-NvChad-custom/lua/custom $HOME/.config/nvim/lua/
 nvim
 ```
-
-## other
-
-fork  [elulcao](https://github.com/elulcao/NvChad-custom)
