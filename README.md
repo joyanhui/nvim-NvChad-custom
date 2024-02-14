@@ -27,6 +27,8 @@ sudo mkdir  /usr/share/fonts/nerd
 sudo cp ./*.ttf /usr/share/fonts/nerd/
 fc-cache -f
 ```
+### 可选的neovide
+https://github.com/neovide/neovide/releases
 
 ### 安装NvChad以及清理
 记得备份
