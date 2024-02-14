@@ -1,7 +1,7 @@
 # NvChad-custom
 自定义neovim配置,基于 [NvChad](https://github.com/NvChad/NvChad) 和  [elulcao](https://github.com/elulcao/NvChad-custom)
 <details>
-<summary>点击这里展开查看详细图文说明</summary>
+<summary>查看演示图</summary>
 <img src="assets/demo.gif" alt="demo - main.go" />
 </details>
 
