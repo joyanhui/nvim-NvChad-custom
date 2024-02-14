@@ -9,7 +9,7 @@ todo list: fcitx5输入法的自动关闭
 
 <p align="center">
 <img 
-  src=".assets/demo.gif" alt="demo - main.go" />
+  src="assets/demo.gif" alt="demo - main.go" />
 </p>
 
 ---
@@ -31,16 +31,16 @@ fc-cache -f
 ```
 
 ### 安装NvChad以及清理
-
+记得备份
 ```bash
 rm -rf ~/.cache/nvim ~/.local/share/nvim/ ~/.config/nvim  ~/.config/nvim-NvChad-custom
 git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
 
 ```
-## Configuration
+## 启用自定义配置
 
 ```bash
-git clone https://github.com/elulcao/NvChad-custom.git ~/.config/nvim-NvChad-custom  --depth 1
+git clone https://github.com/joyanhui/nvim-NvChad-custom.git ~/.config/nvim-NvChad-custom  --depth 1
 ln -sf ~/.config/nvim-NvChad-custom/lua/custom $HOME/.config/nvim/lua/
 nvim
 ```
