@@ -1,3 +1,8 @@
+
+因为分散管理不方便所以合并到  LeiDotFile 的 [NvChad-custom](https://github.com/joyanhui/LeiDotFile/tree/main/nvim/NvChad-custom) 
+
+
+
 # NvChad-custom
 自定义neovim配置,基于 [NvChad](https://github.com/NvChad/NvChad) 和  [elulcao](https://github.com/elulcao/NvChad-custom)
 <details>
